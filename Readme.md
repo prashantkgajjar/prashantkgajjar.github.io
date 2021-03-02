@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">I am Machine Learning Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/Prashant195" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
-
 - 🌱 Having previously worked as Analyst, I am focused on transitioning my career in the field of Machine Learning.
 
 - 👨‍💻 All of my projects are available at www.github.com/prashantkgajjar
